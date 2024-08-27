@@ -54,7 +54,7 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 - [Matheus Costa Caetano Pinto](https://github.com/Matheusccp2)
 - [Juan Gabriel](https://github.com/JuanGabriel741)
 - [David Rodgers](https://github.com/DavidRodgersNunes)
-- Fernando Fernandes
+- [Fernando Fernandes](https://github.com/ffernandes12)
 - [João Vitor](https://github.com/joooavitor)
 
 
